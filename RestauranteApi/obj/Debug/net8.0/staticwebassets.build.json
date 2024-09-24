@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "llcQendYrakhtW4KfkmQvfisKCCZOYdAYB4eEn3f2mk=",
+  "Source": "RestauranteApi",
+  "BasePath": "_content/RestauranteApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RestauranteApi\\wwwroot",
+      "Source": "RestauranteApi",
+      "ContentRoot": "C:\\Users\\MINEDUCYT\\Desktop\\RESTAURANTE\\RestauranteApi\\wwwroot\\",
+      "BasePath": "_content/RestauranteApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\MINEDUCYT\\Desktop\\RESTAURANTE\\RestauranteApi\\wwwroot\\imagenes\\9f91a785-32ad-4334-8301-41a5efcc6b14.jpg",
+      "SourceId": "RestauranteApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MINEDUCYT\\Desktop\\RESTAURANTE\\RestauranteApi\\wwwroot\\",
+      "BasePath": "_content/RestauranteApi",
+      "RelativePath": "imagenes/9f91a785-32ad-4334-8301-41a5efcc6b14.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\9f91a785-32ad-4334-8301-41a5efcc6b14.jpg"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MINEDUCYT\\Desktop\\RESTAURANTE\\RestauranteApi\\wwwroot\\imagenes\\9f91a785-32ad-4334-8301-41a5efcc6b14.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\9f91a785-32ad-4334-8301-41a5efcc6b14.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RestauranteApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RestauranteApi.props",
+      "PackagePath": "build\\RestauranteApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RestauranteApi.props",
+      "PackagePath": "buildMultiTargeting\\RestauranteApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RestauranteApi.props",
+      "PackagePath": "buildTransitive\\RestauranteApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
