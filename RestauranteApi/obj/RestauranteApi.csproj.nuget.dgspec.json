@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MINEDUCYT\\Desktop\\RESTAURANTE\\RestauranteApi\\RestauranteApi.csproj": {}
+    "C:\\Users\\MINEDUCYT\\Documents\\Restaurante\\Restaurante\\RestauranteApi\\RestauranteApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MINEDUCYT\\Desktop\\RESTAURANTE\\RestauranteApi\\RestauranteApi.csproj": {
+    "C:\\Users\\MINEDUCYT\\Documents\\Restaurante\\Restaurante\\RestauranteApi\\RestauranteApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\RESTAURANTE\\RestauranteApi\\RestauranteApi.csproj",
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Documents\\Restaurante\\Restaurante\\RestauranteApi\\RestauranteApi.csproj",
         "projectName": "RestauranteApi",
-        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\RESTAURANTE\\RestauranteApi\\RestauranteApi.csproj",
+        "projectPath": "C:\\Users\\MINEDUCYT\\Documents\\Restaurante\\Restaurante\\RestauranteApi\\RestauranteApi.csproj",
         "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\RESTAURANTE\\RestauranteApi\\obj\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\Documents\\Restaurante\\Restaurante\\RestauranteApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

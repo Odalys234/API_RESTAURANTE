@@ -37,29 +37,28 @@ namespace RestauranteApi.Services.Implementaciones
 
        
         public async Task<Platillo> CreatePlatillo(Platillo platillo)
-        {
-            _restauranteContext.Platillos.Add(platillo);
-            await _restauranteContext.SaveChangesAsync();
-            return platillo;
-        }
+{
+    _restauranteContext.Platillos.Add(platillo);
+    await _restauranteContext.SaveChangesAsync();
+    return platillo;
+}
 
-        
-        public async Task UpdatePlatillo(Platillo platillo, int id)
-        {
-            var platilloExistente = await _restauranteContext.Platillos.FirstOrDefaultAsync(p => p.Id == id);
-            if (platilloExistente == null)
-            {
-                throw new KeyNotFoundException("Platillo no encontrado");
-            }
+public async Task UpdatePlatillo(Platillo platillo, int id)
+{
+    var platilloExistente = await _restauranteContext.Platillos.FirstOrDefaultAsync(p => p.Id == id);
+    if (platilloExistente == null)
+    {
+        throw new KeyNotFoundException("Platillo no encontrado");
+    }
 
-            platilloExistente.NombrePlatillo = platillo.NombrePlatillo;
-            platilloExistente.Descripcion = platillo.Descripcion;
-            platilloExistente.Precio = platillo.Precio;
-            platilloExistente.Imagen = platillo.Imagen;
-            platilloExistente.CategoriaId = platillo.CategoriaId;
+    platilloExistente.NombrePlatillo = platillo.NombrePlatillo;
+    platilloExistente.Descripcion = platillo.Descripcion;
+    platilloExistente.Precio = platillo.Precio;
+    platilloExistente.Imagen = platillo.Imagen; // Solo almacena la URL
+    platilloExistente.CategoriaId = platillo.CategoriaId;
 
-            await _restauranteContext.SaveChangesAsync();
-        }
+    await _restauranteContext.SaveChangesAsync();
+}
 
         
         public async Task DeletePlatillo(int id)

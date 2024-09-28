@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rBJGX/A5zfI=",
+  "dgSpecHash": "3jMjYxhdgDI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MINEDUCYT\\Desktop\\RESTAURANTE\\RestauranteApi\\RestauranteApi.csproj",
+  "projectFilePath": "C:\\Users\\MINEDUCYT\\Documents\\Restaurante\\Restaurante\\RestauranteApi\\RestauranteApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
