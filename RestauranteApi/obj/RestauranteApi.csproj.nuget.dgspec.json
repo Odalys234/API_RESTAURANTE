@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MINEDUCYT\\OneDrive\\Documentos\\Restaurante\\Restaurante\\RestauranteApi\\RestauranteApi.csproj": {}
+    "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta (4)\\API_RESTAURANTE\\RestauranteApi\\RestauranteApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MINEDUCYT\\OneDrive\\Documentos\\Restaurante\\Restaurante\\RestauranteApi\\RestauranteApi.csproj": {
+    "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta (4)\\API_RESTAURANTE\\RestauranteApi\\RestauranteApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MINEDUCYT\\OneDrive\\Documentos\\Restaurante\\Restaurante\\RestauranteApi\\RestauranteApi.csproj",
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta (4)\\API_RESTAURANTE\\RestauranteApi\\RestauranteApi.csproj",
         "projectName": "RestauranteApi",
-        "projectPath": "C:\\Users\\MINEDUCYT\\OneDrive\\Documentos\\Restaurante\\Restaurante\\RestauranteApi\\RestauranteApi.csproj",
+        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta (4)\\API_RESTAURANTE\\RestauranteApi\\RestauranteApi.csproj",
         "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MINEDUCYT\\OneDrive\\Documentos\\Restaurante\\Restaurante\\RestauranteApi\\obj\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta (4)\\API_RESTAURANTE\\RestauranteApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -82,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

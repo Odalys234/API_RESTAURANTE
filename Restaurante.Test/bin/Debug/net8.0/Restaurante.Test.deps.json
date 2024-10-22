@@ -1224,10 +1224,7 @@
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
-          "RestauranteApi.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "RestauranteApi.dll": {}
         }
       }
     }
