@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AE+IhzLpTn26uvQr8Kg4TTGQw/ktPjD8gS94mfyQCy4=",
+  "Hash": "AM3cNgrPhQVNY7no/X+e55SvAMqN7ivcBTMaa9kFb6g=",
   "Source": "RestauranteApi",
   "BasePath": "_content/RestauranteApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "RestauranteApi\\wwwroot",
       "Source": "RestauranteApi",
-      "ContentRoot": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta (4)\\API_RESTAURANTE\\RestauranteApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta\\API_RESTAURANTE\\RestauranteApi\\wwwroot\\",
       "BasePath": "_content/RestauranteApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta (4)\\API_RESTAURANTE\\RestauranteApi\\wwwroot\\imagenes\\159f8a23-eda9-4b07-a886-b91bdcd41ed9.jfif",
+      "Identity": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta\\API_RESTAURANTE\\RestauranteApi\\wwwroot\\imagenes\\159f8a23-eda9-4b07-a886-b91bdcd41ed9.jfif",
       "SourceId": "RestauranteApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta (4)\\API_RESTAURANTE\\RestauranteApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta\\API_RESTAURANTE\\RestauranteApi\\wwwroot\\",
       "BasePath": "_content/RestauranteApi",
       "RelativePath": "imagenes/159f8a23-eda9-4b07-a886-b91bdcd41ed9.jfif",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\159f8a23-eda9-4b07-a886-b91bdcd41ed9.jfif"
     },
     {
-      "Identity": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta (4)\\API_RESTAURANTE\\RestauranteApi\\wwwroot\\imagenes\\3b839716-d395-43a9-8621-797f5d70740e.jfif",
+      "Identity": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta\\API_RESTAURANTE\\RestauranteApi\\wwwroot\\imagenes\\3b839716-d395-43a9-8621-797f5d70740e.jfif",
       "SourceId": "RestauranteApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta (4)\\API_RESTAURANTE\\RestauranteApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta\\API_RESTAURANTE\\RestauranteApi\\wwwroot\\",
       "BasePath": "_content/RestauranteApi",
       "RelativePath": "imagenes/3b839716-d395-43a9-8621-797f5d70740e.jfif",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\3b839716-d395-43a9-8621-797f5d70740e.jfif"
     },
     {
-      "Identity": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta (4)\\API_RESTAURANTE\\RestauranteApi\\wwwroot\\imagenes\\9f91a785-32ad-4334-8301-41a5efcc6b14.jpg",
+      "Identity": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta\\API_RESTAURANTE\\RestauranteApi\\wwwroot\\imagenes\\9f91a785-32ad-4334-8301-41a5efcc6b14.jpg",
       "SourceId": "RestauranteApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta (4)\\API_RESTAURANTE\\RestauranteApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta\\API_RESTAURANTE\\RestauranteApi\\wwwroot\\",
       "BasePath": "_content/RestauranteApi",
       "RelativePath": "imagenes/9f91a785-32ad-4334-8301-41a5efcc6b14.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\9f91a785-32ad-4334-8301-41a5efcc6b14.jpg"
     },
     {
-      "Identity": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta (4)\\API_RESTAURANTE\\RestauranteApi\\wwwroot\\imagenes\\ca87b8b3-69c5-43fe-8fca-6b91ee4c2034.jfif",
+      "Identity": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta\\API_RESTAURANTE\\RestauranteApi\\wwwroot\\imagenes\\ca87b8b3-69c5-43fe-8fca-6b91ee4c2034.jfif",
       "SourceId": "RestauranteApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta (4)\\API_RESTAURANTE\\RestauranteApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MINEDUCYT\\Desktop\\Nueva carpeta\\API_RESTAURANTE\\RestauranteApi\\wwwroot\\",
       "BasePath": "_content/RestauranteApi",
       "RelativePath": "imagenes/ca87b8b3-69c5-43fe-8fca-6b91ee4c2034.jfif",
       "AssetKind": "All",

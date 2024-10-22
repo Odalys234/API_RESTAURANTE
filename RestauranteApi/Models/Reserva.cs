@@ -9,7 +9,7 @@ namespace RestauranteApi.Models
         public DateTime FechaReserva { get; set; }
         public TimeSpan HoraReserva { get; set; }
         public int NumeroPersonas { get; set; }
-        public string MesaAsignada { get; set; }
+        public int MesaAsignada { get; set; }
         
     }
 }
