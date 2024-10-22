@@ -6,7 +6,8 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace RestauranteApi.Tests {
+namespace RestauranteApi.Tests 
+{
     public class ReservaServiceTest {
         private readonly ReservaService _reservaService;
         private readonly RestauranteContext _restauranteContext;
@@ -64,6 +65,7 @@ namespace RestauranteApi.Tests {
             Assert.Equal(DateTime.Parse("30/12/2024"), reservaFromDb.FechaReserva);
             Assert.Equal(2, reservaFromDb.NumeroPersonas);
             Assert.Equal(8, reservaFromDb.MesaAsignada);  
+        }  
 
         [Fact]
         public async Task DeleteReserva() {
@@ -119,7 +121,6 @@ namespace RestauranteApi.Tests {
 
             Assert.Single(result);  
             Assert.Contains(result, r => r.ClienteId == 12);
-        }
         }
-    }
+    }
 }
