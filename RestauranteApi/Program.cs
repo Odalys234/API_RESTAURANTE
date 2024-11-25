@@ -5,7 +5,6 @@ using RestauranteApi.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 var conString = builder.Configuration.GetConnectionString("Conn");
 builder.Services.AddDbContext<RestauranteContext>(
     options  => options.UseMySql(conString,ServerVersion.AutoDetect(conString))
@@ -17,15 +16,24 @@ builder.Services.AddScoped<IEmpleadoService,EmpleadoService>();
 builder.Services.AddScoped<IReservaService,ReservaService>();
 builder.Services.AddScoped<IPlatilloService,PlatilloService>();
 builder.Services.AddScoped<IPedidoService,PedidoService>();
-builder.Services.AddScoped<IVotoService,VotoService>();
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
+});
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+app.UseCors("AllowAll");
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
